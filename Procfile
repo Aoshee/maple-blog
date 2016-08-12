@@ -1,1 +1,1 @@
-web: gunicorn maple:app --log-file -
+web: gunicorn maple:application --log-file -
